@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Zyaba-Focus
+Name[ru]=Зяба-Фокус
+Name[ca]=Ziaba-Focus
+Name[eu]=Ziaba-Fokus
+Exec=%U Zyaba-Focus
+Icon=Zyaba-Logo.svg
+X-Lomiri-Splash-Image=Zyaba-Splash.svg
+X-Lomiri-Splash-Color=#2da20f
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true

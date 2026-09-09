@@ -1,0 +1,4 @@
+clickable_minimum_required: 7.0.0
+builder: qbs
+kill: Zyaba-Focus
+skip_review: true

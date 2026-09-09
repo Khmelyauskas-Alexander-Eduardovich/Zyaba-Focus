@@ -1,0 +1,16 @@
+{
+    "architecture": "@CLICK_ARCH@",
+    "description": "Zyaba-Focus - it's J2ME Emulator-wrapper",
+    "framework": "@CLICK_FRAMEWORK@",
+    "hooks": {
+        "zyaba-focus": {
+            "apparmor": "zyaba-focus.apparmor",
+            "desktop": "zyaba-focus.desktop"
+        }
+    },
+    "installed-size": "49383",
+    "maintainer": "JasonWalt Bab@ <mardimusa8@gmail.com>",
+    "name": "zyaba-focus.jwb-bravada-n-jwb-tutantxamon",
+    "title": "Zyaba-Focus",
+    "version": "1.0.0"
+}
